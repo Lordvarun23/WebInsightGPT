@@ -13,8 +13,8 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Lordvarun23/webinsightgpt.git
-   cd webstreamai
+   git clone [https://github.com/Lordvarun23/webinsightgpt.git](https://github.com/Lordvarun23/WebInsightGPT)
+   cd webinsightgpt
    ```
 2. Create a virtual environment and activate it:
  ```
