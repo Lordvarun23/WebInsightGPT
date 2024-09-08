@@ -117,7 +117,7 @@ def rag_pipeline(user_query,documents):
         str: The generated response from the chatbot.
     """
 
-    COHERE_API_KEY_TEXT = "YqDdRwGjdbF1N4ybPERe22CUOVzpahrVlqd3JBPs"
+    COHERE_API_KEY_TEXT = "YOUR COHERE API KEY"
 
     index = faiss.IndexFlatL2(len(hf.embed_query("hello world")))
     vector_store = FAISS(
