@@ -42,3 +42,6 @@ Code Overview
 - return_documents(user_query, topk=1): Retrieves and processes documents for the given query.
 - rag_pipeline(user_query, documents): Implements the RAG pipeline using FAISS and generates responses with Cohere's API.
 - chatbot_response(user_query): Handles user queries and provides responses based on context or general interactions.
+
+## Try 
+![image](https://github.com/user-attachments/assets/7045ce48-1993-44d9-9763-1b5a2a69e15e)
